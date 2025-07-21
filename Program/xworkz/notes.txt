@@ -1,0 +1,80 @@
+method to perform spcific task
+syntax returntype mathodname(){}
+
+
+//class varible methods / templete which consists of variable, methods(properties, fields,attributes)
+// behaviour/functionality methods
+// class consists of propeties and  bahaviour
+
+
+// static block wiil be excuted when class is loaded or static variable or static method
+/  static block wiil be executed only once
+//in static block non static variable can be initialize
+//ststic block is used to initialize static variable and load static method
+
+// non static wiil be exuted when object created
+non static block will be many times based on number of object created
+non satic block we can inintialize static variable
+
+variable is a container 
+
+
+java
+secure
+platform independent
+wora
+
+claas templets contains states and variable
+ data type variable;
+
+modifier return type method name()
+
+objectreference methodname()  not static method
+objectreference variable()   not static variable
+
+
+
+
+defoult contructor 
+public classname()
+
+
+
+
+
+code - repository
+
+GIThub repository
+create account
+login to github
+create repository
+core java
+
+
+
+git tool
+
+git clone:paste
+gir status 
+git add filename
+git commit - m"creating git"
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

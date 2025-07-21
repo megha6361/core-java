@@ -1,0 +1,20 @@
+class Multiplication
+{
+public static void main(String[] args)
+{
+int number = 3;
+System.out.println("multiplication table for " + number + ":");
+for(int i = 1; i <= 10; i++);
+{
+int result = number * i;
+System.out.println(number + " x " + i + " = " + result);
+}
+int number = 6;
+System.out.println("multiplication table for " + number + ":");
+for(int i = 1; i <= 10; i++);
+{
+int result = number * i;
+System.out.println(number + " x " + i + " = " + result);
+
+}
+}
