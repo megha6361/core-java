@@ -1,6 +1,7 @@
 package xworkz.polymorphism;
 
 public class Sbi extends Bank {
+    public String name;
     public Sbi(){
 }
         public Sbi(String timing){
