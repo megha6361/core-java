@@ -3,10 +3,10 @@ package xworkz.Abstaction;
 public class VehicleRunner {
     public static void main(String[] args){
         Vehicle car = new Car();
-        Vehicle bike = new Auto();
+        Vehicle auto = new Auto();
 
-        Car.move();
-        Auto.move();
+        car.move();
+        auto.move();
 
 
     }
